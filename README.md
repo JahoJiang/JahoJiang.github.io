@@ -1,2 +1,2 @@
-## Personal Homepage
-This is for my personal homepage.
+# JahoJiang.github.io
+Personal Homepage
